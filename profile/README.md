@@ -1,5 +1,5 @@
-# [![Agent Facets](../logo.svg)](https://ex-machina.co)
+### [![Agent Facets](../logo.svg)](https://agentfacets.io)
 
-The only way to share agent configuration across platforms and systems
+[agentfacets.io](https://agentfacets.io) – the best way to share agent configuration across platforms and systems
 
-[agentfacets.io](https://agentfacets.io)
+<sub >Official support provided by [Ex Machina](https://ex-machina.co)</sub>
