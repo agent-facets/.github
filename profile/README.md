@@ -1,4 +1,4 @@
-### [![Agent Facets](../logo.svg)](https://agentfacets.io)
+### [![Agent Facets](../logo-light.svg)](https://agentfacets.io)
 
 [agentfacets.io](https://agentfacets.io) – the best way to share agent configuration across platforms and systems
 
